@@ -9,10 +9,15 @@ Thanks For Using This Tools.
 
 # Run commands one by one
 >> git clone https://github.com/ijazkhan10/OrkXai-HaxKER
+
 >> cd Facebook-BruteForce
+
 >> pip3 install requests bs4
+
 >> pip install mechanize
+
 >> python3 fb.py or python fb2.py
+
 
 # Protection Against Attacker
 Use Strong Password(which contains standard password chars + longest as possible)
