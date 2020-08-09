@@ -8,7 +8,7 @@ Thanks For Using This Tools.
 >> apt-get install git python3 python3-pip python python-pip
 
 # Run commands one by one
->> git clone https://github.com/ijazkhan10/OrkXai-HaxKER
+>> git clone https://github.com/ijazkhan10/Fb-Brute-OrkXai-HaxKER.git
 
 >> cd Facebook-BruteForce
 
